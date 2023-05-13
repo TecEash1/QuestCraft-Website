@@ -36,7 +36,7 @@ export default function Support() {
                             <hr className="border-gray-200 dark:border-gray-700" />
 
                             <p className="px-8 py-2 text-sm text-gray-500 dark:text-gray-300">
-                                Here is a tutorial posted on our YouTube channel explaining on how to install and run QuestCraft. To download QuestCraft, you can use SideQuest available at
+                                Here is a tutorial posted by The Mysticle explaining on how to install and run QuestCraft. To download QuestCraft, you can use SideQuest available at
                                 <a className="text-blue-600 font-medium px-1" href="https://sidequestvr.com/app/7150">
                                     SideQuest Website
                                 </a>
@@ -46,7 +46,7 @@ export default function Support() {
                                 </a>
                                 .
                                 <div className="py-2">
-                                    <iframe className="w-full" height="400" src="https://www.youtube.com/embed/_jU8oDQblW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen={true}></iframe>
+                                    <iframe className="w-full" height="400" src="https://www.youtube.com/embed/qxTuA5x_CLc?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen={true}></iframe>
                                 </div>
                             </p>
                         </div>
